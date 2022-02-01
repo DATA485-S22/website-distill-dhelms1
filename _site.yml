@@ -1,7 +1,7 @@
-name: "ads-website-distill"
-title: "&quot;Test-Distill-Website&quot;"
+name: "."
+title: "Distill Example Site"
 description: |
-  &quot;Test-Distill-Website&quot;
+  My Blog
 output_dir: "docs"
 navbar:
   right:
